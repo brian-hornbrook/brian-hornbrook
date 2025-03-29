@@ -23,7 +23,7 @@
 	<tr> 	<td>Vagrant</td> 				<td>Spend Time with Family</td> 			<td></td> </tr>
 	<tr> 	<td>Chef</td> 					<td>Go Outdoors</td> 			<td></td> </tr>
 	<tr> 	<td>Fabric</td> 				<td>Watch Movies</td> 			<td></td> </tr>
-	<tr> 	<td>Django Development</td> 	<td></td> 			<td></td> 	<td></td> </tr>
+	<tr> 	<td>Django Development</td> 	<td></td> 			<td></td> </tr>
 </table>
 
 </br>
