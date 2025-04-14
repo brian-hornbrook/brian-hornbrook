@@ -24,7 +24,7 @@
   <hr style="color: #d7d7d7; margin-top: 0;">
 
   <p align="center" style="display: flex; flex-flow: row wrap; justify-content: center; align-items: center; max-width: 600px; margin: auto;">
-    <span style="padding-inline: 10px;">
+    <span style="margin-inline: 10px;">
       <img height="40" style="padding-inline: 5px; border-radius: 12%;" src="https://github.com/brian-hornbrook/brian-hornbrook-code/blob/main/images/chef.svg" alt="chef" title="chef" />
     </span>
     <span style="padding-inline: 10px;">
