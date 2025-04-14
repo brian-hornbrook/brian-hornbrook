@@ -24,24 +24,26 @@
   <hr style="color: #d7d7d7; margin-top: 0;">
 
   <p align="center" style="display: flex; flex-flow: row wrap; justify-content: center; align-items: center; max-width: 600px; margin: auto;">
-    <span style="margin-inline: 10px;">
-      <img height="40" style="padding-inline: 5px; border-radius: 12%;" src="https://github.com/brian-hornbrook/brian-hornbrook-code/blob/main/images/chef.svg" alt="chef" title="chef" />
-    </span>
-    <span style="padding-inline: 10px;">
-      <img height="40" style="padding-inline: 5px; border-radius: 12%;" src="https://github.com/brian-hornbrook/brian-hornbrook-code/blob/main/images/symfony.png" alt="symfony" title="symfony" />
-    </span>
-    <span style="padding-inline: 10px;">
-      <img height="30" style="padding-inline: 5px; border-radius: 12%;" src="https://github.com/brian-hornbrook/brian-hornbrook-code/blob/main/images/laravel.svg" alt="laravel" title="Laravel" />
-    </span>
-    <span style="padding-inline: 10px;">
-      <img height="40" style="padding-inline: 5px; border-radius: 7px;" src="https://github.com/brian-hornbrook/brian-hornbrook-code/blob/main/images/django.png" alt="django" title="Django" />
-    </span>
-    <span style="padding-inline: 10px; width: fit-content; display: flex; flex-flow: row wrap; justify-content: center; align-items: center;">
-      <img height="40" style="padding-inline: 5px; border-radius: 12%;" src="https://github.com/brian-hornbrook/brian-hornbrook-code/blob/main/images/react.svg" alt="react" title="React" /><span style="font-size: 30px; color: #ffffff;">React</span>
-    </span>
-    <span style="padding-inline: 10px; width: fit-content; display: flex; flex-flow: row wrap; justify-content: center; align-items: center;">
-      <img height="40" style="padding-inline: 5px; border-radius: 12%;" src="https://github.com/brian-hornbrook/brian-hornbrook-code/blob/main/images/vue.png" alt="vue" title="Vue" /><span style="font-size: 30px; color: #ffffff;">Vue</span>
-    </span>
+
+  <span style="width: 10px;"></span>
+    <img height="40" style="padding-inline: 10px; border-radius: 12%;" src="https://github.com/brian-hornbrook/brian-hornbrook-code/blob/main/images/chef.svg" alt="chef" title="chef" />
+  <span style="width: 10px;"></span>
+
+  <span style="padding-inline: 10px;">
+    <img height="40" style="padding-inline: 5px; border-radius: 12%;" src="https://github.com/brian-hornbrook/brian-hornbrook-code/blob/main/images/symfony.png" alt="symfony" title="symfony" />
+  </span>
+  <span style="padding-inline: 10px;">
+    <img height="30" style="padding-inline: 5px; border-radius: 12%;" src="https://github.com/brian-hornbrook/brian-hornbrook-code/blob/main/images/laravel.svg" alt="laravel" title="Laravel" />
+  </span>
+  <span style="padding-inline: 10px;">
+    <img height="40" style="padding-inline: 5px; border-radius: 7px;" src="https://github.com/brian-hornbrook/brian-hornbrook-code/blob/main/images/django.png" alt="django" title="Django" />
+  </span>
+  <span style="padding-inline: 10px; width: fit-content; display: flex; flex-flow: row wrap; justify-content: center; align-items: center;">
+    <img height="40" style="padding-inline: 5px; border-radius: 12%;" src="https://github.com/brian-hornbrook/brian-hornbrook-code/blob/main/images/react.svg" alt="react" title="React" /><span style="font-size: 30px; color: #ffffff;">React</span>
+  </span>
+  <span style="padding-inline: 10px; width: fit-content; display: flex; flex-flow: row wrap; justify-content: center; align-items: center;">
+    <img height="40" style="padding-inline: 5px; border-radius: 12%;" src="https://github.com/brian-hornbrook/brian-hornbrook-code/blob/main/images/vue.png" alt="vue" title="Vue" /><span style="font-size: 30px; color: #ffffff;">Vue</span>
+  </span>
   </p>
 
   <!-- Technology Stack -->
