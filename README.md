@@ -23,28 +23,26 @@
 
   <hr style="color: #d7d7d7; margin-top: 0;">
 
-  <p align="center" style="display: flex; flex-flow: row wrap; justify-content: center; align-items: center; max-width: 600px; margin: auto;">
-
-  <span style="width: 10px;"></span>
-    <img height="40" style="padding-inline: 10px; border-radius: 12%;" src="https://github.com/brian-hornbrook/brian-hornbrook-code/blob/main/images/chef.svg" alt="chef" title="chef" />
-  <span style="width: 10px;"></span>
-
-  <span style="padding-inline: 10px;">
-    <img height="40" style="padding-inline: 5px; border-radius: 12%;" src="https://github.com/brian-hornbrook/brian-hornbrook-code/blob/main/images/symfony.png" alt="symfony" title="symfony" />
-  </span>
-  <span style="padding-inline: 10px;">
-    <img height="30" style="padding-inline: 5px; border-radius: 12%;" src="https://github.com/brian-hornbrook/brian-hornbrook-code/blob/main/images/laravel.svg" alt="laravel" title="Laravel" />
-  </span>
-  <span style="padding-inline: 10px;">
-    <img height="40" style="padding-inline: 5px; border-radius: 7px;" src="https://github.com/brian-hornbrook/brian-hornbrook-code/blob/main/images/django.png" alt="django" title="Django" />
-  </span>
-  <span style="padding-inline: 10px; width: fit-content; display: flex; flex-flow: row wrap; justify-content: center; align-items: center;">
-    <img height="40" style="padding-inline: 5px; border-radius: 12%;" src="https://github.com/brian-hornbrook/brian-hornbrook-code/blob/main/images/react.svg" alt="react" title="React" /><span style="font-size: 30px; color: #ffffff;">React</span>
-  </span>
-  <span style="padding-inline: 10px; width: fit-content; display: flex; flex-flow: row wrap; justify-content: center; align-items: center;">
-    <img height="40" style="padding-inline: 5px; border-radius: 12%;" src="https://github.com/brian-hornbrook/brian-hornbrook-code/blob/main/images/vue.png" alt="vue" title="Vue" /><span style="font-size: 30px; color: #ffffff;">Vue</span>
-  </span>
-  </p>
+  <div align="center" style="display: flex; flex-flow: row wrap; justify-content: center; align-items: center; max-width: 600px; margin: auto;">
+    <span style="margin-inline: 10px;">
+      <img height="40" style="padding-inline: 5px; border-radius: 12%;" src="https://github.com/brian-hornbrook/brian-hornbrook-code/blob/main/images/chef.svg" alt="chef" title="chef" />
+    </span>
+    <span style="padding-inline: 10px;">
+      <img height="40" style="padding-inline: 5px; border-radius: 12%;" src="https://github.com/brian-hornbrook/brian-hornbrook-code/blob/main/images/symfony.png" alt="symfony" title="symfony" />
+    </span>
+    <span style="padding-inline: 10px;">
+      <img height="30" style="padding-inline: 5px; border-radius: 12%;" src="https://github.com/brian-hornbrook/brian-hornbrook-code/blob/main/images/laravel.svg" alt="laravel" title="Laravel" />
+    </span>
+    <span style="padding-inline: 10px;">
+      <img height="40" style="padding-inline: 5px; border-radius: 7px;" src="https://github.com/brian-hornbrook/brian-hornbrook-code/blob/main/images/django.png" alt="django" title="Django" />
+    </span>
+    <span style="padding-inline: 10px; width: fit-content; display: flex; flex-flow: row wrap; justify-content: center; align-items: center;">
+      <img height="40" style="padding-inline: 5px; border-radius: 12%;" src="https://github.com/brian-hornbrook/brian-hornbrook-code/blob/main/images/react.svg" alt="react" title="React" /><span style="font-size: 30px; color: #ffffff;">React</span>
+    </span>
+    <span style="padding-inline: 10px; width: fit-content; display: flex; flex-flow: row wrap; justify-content: center; align-items: center;">
+      <img height="40" style="padding-inline: 5px; border-radius: 12%;" src="https://github.com/brian-hornbrook/brian-hornbrook-code/blob/main/images/vue.png" alt="vue" title="Vue" /><span style="font-size: 30px; color: #ffffff;">Vue</span>
+    </span>
+  </div>
 
   <!-- Technology Stack -->
   <div style="display: flex; justify-content: center; padding: 40px 15px 0 15px;">
@@ -81,19 +79,6 @@
     </h3>
   </div>
 
-  <div style="display: flex; justify-content: center; padding: 20px 15px 50px 15px;">
-    <a href="https://www.linkedin.com/in/brian-hornbrook" target="_blank" style="text-decoration: none; margin: 0 10px;">
-      <button type="button" class="btn btn-success" style="display: flex; justify-content: center; align-items: center;">
-        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" style="margin-inline: 5px;" class="bi bi-linkedin" viewBox="0 0 16 16"><path d="M0 1.146C0 .513.526 0 1.175 0h13.65C15.474 0 16 .513 16 1.146v13.708c0 .633-.526 1.146-1.175 1.146H1.175C.526 16 0 15.487 0 14.854zm4.943 12.248V6.169H2.542v7.225zm-1.2-8.212c.837 0 1.358-.554 1.358-1.248-.015-.709-.52-1.248-1.342-1.248S2.4 3.226 2.4 3.934c0 .694.521 1.248 1.327 1.248zm4.908 8.212V9.359c0-.216.016-.432.08-.586.173-.431.568-.878 1.232-.878.869 0 1.216.662 1.216 1.634v3.865h2.401V9.25c0-2.22-1.184-3.252-2.764-3.252-1.274 0-1.845.7-2.165 1.193v.025h-.016l.016-.025V6.169h-2.4c.03.678 0 7.225 0 7.225z" /></svg>
-        LinkedIn
-      </button>
-    </a>
-    <a href="https://brianhornbrook.com" target="_blank" style="text-decoration: none;">
-      <button type="button" class="btn btn-primary" style="display: flex; justify-content: center; align-items: center;">
-        <svg style="margin: 0 5px 1px 5px;" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-person-fill" viewBox="0 0 16 16"><path d="M3 14s-1 0-1-1 1-4 6-4 6 3 6 4-1 1-1 1zm5-6a3 3 0 1 0 0-6 3 3 0 0 0 0 6" /></svg>
-        My Site
-      </button>
-    </a>
-  </div>
-
-</div>
+  [![Linkedin Badge](https://img.shields.io/badge/linkedin-darkgreen?style=for-the-badge&logo=InVision&logoColor=white)](https://www.linkedin.com/in/brian-hornbrook)
+  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/brianbdh)
+  [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://brianhornbrook.com)
