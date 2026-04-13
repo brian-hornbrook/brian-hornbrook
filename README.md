@@ -9,7 +9,7 @@
 
   <div style="display: flex; justify-content: center; padding-block: 15px;">
     <p class="fs-5" style="font-weight: 700; color: #616161; max-width: 800px;">
-      I have spent the last 3 years building my Web Development, Linux, and DevOps skills! I am so entrigued by technologies and software and were it can take us! Building Full Stack applications and implementing new software to accomplish greater possibilities.
+      Self-taught motivated Developer with Coding Bootcamp and entrepreneur with 3 years of hands-on experience designing, deploying, and securing production web infrastructure. Skilled in identifying attack surfaces, hardening Linux environments, managing containerized deployments, and implementing layered network defenses via Traefik reverse proxy and Django hosts. Familiar with OWASP Top 10, secure SDLC principles, and log-driven troubleshooting across live production systems. Bringing a builder's mindset to threat detection, incident triage, risk management and security monitoring as a Cybersecurity Analyst. 
     </p>
   </div>
 
